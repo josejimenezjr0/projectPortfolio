@@ -22,9 +22,9 @@ body {
 }
 
 .clear:after {
-    content: "";
-    clear: both;
-    display: table;
+  content: "";
+  clear: both;
+  display: table;
 }
 
 .name-block {
